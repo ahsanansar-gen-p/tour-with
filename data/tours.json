@@ -6,12 +6,12 @@
     "duration": "5 Days",
     "price": 75000,
     "location": "Hunza Valley",
-    "featuredImage": "/images/tours/hunza/featured.jpg",
+    "featuredImage": "https://images.pexels.com/photos/531321/pexels-photo-531321.jpeg",
     "gallery": [
-      "/images/tours/hunza/1.jpg",
-      "/images/tours/hunza/2.jpg",
-      "/images/tours/hunza/3.jpg",
-      "/images/tours/hunza/4.jpg"
+      "https://images.pexels.com/photos/531321/pexels-photo-531321.jpeg",
+      "https://images.pexels.com/photos/531321/pexels-photo-531321.jpeg",
+      "https://images.pexels.com/photos/531321/pexels-photo-531321.jpeg",
+      "https://images.pexels.com/photos/531321/pexels-photo-531321.jpeg"
     ],
     "shortDescription": "A compact Hunza experience covering Attabad Lake, Altit Fort, and Passu viewpoints.",
     "fullDescription": "This 5-day Hunza package is designed for travelers who want iconic landscapes, comfortable stays, and balanced sightseeing. The route includes scenic drives on the Karakoram Highway, cultural visits to heritage forts, and photo stops at lakes and mountain passes.",
@@ -76,12 +76,12 @@
     "duration": "7 Days",
     "price": 105000,
     "location": "Skardu & Shigar",
-    "featuredImage": "/images/tours/skardu/featured.jpg",
+    "featuredImage": "https://images.pexels.com/photos/531321/pexels-photo-531321.jpeg",
     "gallery": [
-      "/images/tours/skardu/1.jpg",
-      "/images/tours/skardu/2.jpg",
-      "/images/tours/skardu/3.jpg",
-      "/images/tours/skardu/4.jpg"
+      "https://images.pexels.com/photos/531321/pexels-photo-531321.jpeg",
+      "https://images.pexels.com/photos/531321/pexels-photo-531321.jpeg",
+      "https://images.pexels.com/photos/531321/pexels-photo-531321.jpeg",
+      "https://images.pexels.com/photos/531321/pexels-photo-531321.jpeg"
     ],
     "shortDescription": "A full Skardu expedition featuring lakes, desert landscapes, and heritage forts.",
     "fullDescription": "This 7-day Skardu tour is crafted for guests who want deep exploration of Baltistan's signature attractions. It combines valley drives, relaxed sightseeing, and cultural immersion with comfortable lodging and guide-led planning.",
@@ -156,11 +156,11 @@
     "duration": "3 Days",
     "price": 42000,
     "location": "Naran & Kaghan",
-    "featuredImage": "/images/tours/naran-kaghan/featured.jpg",
+    "featuredImage": "https://images.pexels.com/photos/531321/pexels-photo-531321.jpeg",
     "gallery": [
-      "/images/tours/naran-kaghan/1.jpg",
-      "/images/tours/naran-kaghan/2.jpg",
-      "/images/tours/naran-kaghan/3.jpg"
+      "https://images.pexels.com/photos/531321/pexels-photo-531321.jpeg",
+      "https://images.pexels.com/photos/531321/pexels-photo-531321.jpeg",
+      "https://images.pexels.com/photos/531321/pexels-photo-531321.jpeg"
     ],
     "shortDescription": "A quick mountain escape featuring river views and alpine landscapes.",
     "fullDescription": "The Naran Kaghan 3-day package is ideal for short vacations and weekend breaks. It includes comfortable travel from Islamabad, major sightseeing points, and a relaxed itinerary for families or friend groups.",
@@ -211,11 +211,11 @@
     "duration": "1 Day",
     "price": 12000,
     "location": "Murree & Patriata",
-    "featuredImage": "/images/tours/one-day/featured.jpg",
+    "featuredImage": "https://images.pexels.com/photos/531321/pexels-photo-531321.jpeg",
     "gallery": [
-      "/images/tours/one-day/1.jpg",
-      "/images/tours/one-day/2.jpg",
-      "/images/tours/one-day/3.jpg"
+      "https://images.pexels.com/photos/531321/pexels-photo-531321.jpeg",
+      "https://images.pexels.com/photos/531321/pexels-photo-531321.jpeg",
+      "https://images.pexels.com/photos/531321/pexels-photo-531321.jpeg"
     ],
     "shortDescription": "A single-day scenic break with light activities and easy travel.",
     "fullDescription": "This one-day package is suitable for travelers looking for a quick and affordable getaway from Islamabad. It includes selected viewpoints, chairlift area access, and enough free time for dining and local shopping.",
@@ -249,3 +249,4 @@
     "guideId": "guide-zahid-iqbal"
   }
 ]
+
