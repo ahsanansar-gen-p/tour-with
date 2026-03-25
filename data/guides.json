@@ -1,0 +1,37 @@
+[
+  {
+    "id": "guide-ali-raza",
+    "name": "Ali Raza",
+    "image": "/images/guides/ali-raza.jpg",
+    "experience": "8 Years",
+    "description": "Specializes in Hunza, Nagar, and nearby mountain routes with a focus on safe and comfortable family travel.",
+    "gallery": [
+      "/images/guides/ali-raza-1.jpg",
+      "/images/guides/ali-raza-2.jpg",
+      "/images/guides/ali-raza-3.jpg"
+    ]
+  },
+  {
+    "id": "guide-sana-khan",
+    "name": "Sana Khan",
+    "image": "/images/guides/sana-khan.jpg",
+    "experience": "6 Years",
+    "description": "Known for highly organized multi-day tours in Skardu and high-altitude destinations with local storytelling.",
+    "gallery": [
+      "/images/guides/sana-khan-1.jpg",
+      "/images/guides/sana-khan-2.jpg",
+      "/images/guides/sana-khan-3.jpg"
+    ]
+  },
+  {
+    "id": "guide-zahid-iqbal",
+    "name": "Zahid Iqbal",
+    "image": "/images/guides/zahid-iqbal.jpg",
+    "experience": "5 Years",
+    "description": "Leads short scenic trips around Naran Kaghan and one-day excursions from Islamabad and nearby regions.",
+    "gallery": [
+      "/images/guides/zahid-iqbal-1.jpg",
+      "/images/guides/zahid-iqbal-2.jpg"
+    ]
+  }
+]

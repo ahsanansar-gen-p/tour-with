@@ -1,0 +1,251 @@
+[
+  {
+    "id": "tour-hunza-5-days",
+    "slug": "hunza-tour-5-days",
+    "title": "Hunza Tour",
+    "duration": "5 Days",
+    "price": 75000,
+    "location": "Hunza Valley",
+    "featuredImage": "/images/tours/hunza/featured.jpg",
+    "gallery": [
+      "/images/tours/hunza/1.jpg",
+      "/images/tours/hunza/2.jpg",
+      "/images/tours/hunza/3.jpg",
+      "/images/tours/hunza/4.jpg"
+    ],
+    "shortDescription": "A compact Hunza experience covering Attabad Lake, Altit Fort, and Passu viewpoints.",
+    "fullDescription": "This 5-day Hunza package is designed for travelers who want iconic landscapes, comfortable stays, and balanced sightseeing. The route includes scenic drives on the Karakoram Highway, cultural visits to heritage forts, and photo stops at lakes and mountain passes.",
+    "facilities": [
+      "Private transport",
+      "Hotel accommodation",
+      "Breakfast and dinner",
+      "Local guide support",
+      "Basic first-aid kit"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Islamabad to Chilas",
+        "description": "Departure from Islamabad, highway travel with rest stops, and overnight stay in Chilas."
+      },
+      {
+        "day": 2,
+        "title": "Chilas to Hunza",
+        "description": "Drive to Hunza with viewpoints at Rakaposhi and Karimabad market exploration."
+      },
+      {
+        "day": 3,
+        "title": "Hunza Sightseeing",
+        "description": "Visit Altit and Baltit forts, Eagle's Nest sunset, and local cuisine experience."
+      },
+      {
+        "day": 4,
+        "title": "Passu and Attabad",
+        "description": "Day excursion to Passu Cones, Hussaini Bridge area, and Attabad Lake boating."
+      },
+      {
+        "day": 5,
+        "title": "Return Journey",
+        "description": "Travel back with planned breaks and final drop-off at Islamabad."
+      }
+    ],
+    "preparations": [
+      "Carry original CNIC or passport",
+      "Pack layered clothing for changing temperatures",
+      "Bring personal medicines",
+      "Keep a power bank and charging cable"
+    ],
+    "precautions": [
+      "Avoid overexertion on high-altitude stops",
+      "Stay hydrated throughout the trip",
+      "Follow guide instructions near rivers and bridges",
+      "Wear comfortable trekking shoes"
+    ],
+    "terms": [
+      "50% advance payment required for booking",
+      "Rooms are subject to hotel availability",
+      "Weather-related route changes may occur",
+      "Meals not mentioned in facilities are excluded"
+    ],
+    "guideId": "guide-ali-raza"
+  },
+  {
+    "id": "tour-skardu-7-days",
+    "slug": "skardu-tour-7-days",
+    "title": "Skardu Tour",
+    "duration": "7 Days",
+    "price": 105000,
+    "location": "Skardu & Shigar",
+    "featuredImage": "/images/tours/skardu/featured.jpg",
+    "gallery": [
+      "/images/tours/skardu/1.jpg",
+      "/images/tours/skardu/2.jpg",
+      "/images/tours/skardu/3.jpg",
+      "/images/tours/skardu/4.jpg"
+    ],
+    "shortDescription": "A full Skardu expedition featuring lakes, desert landscapes, and heritage forts.",
+    "fullDescription": "This 7-day Skardu tour is crafted for guests who want deep exploration of Baltistan's signature attractions. It combines valley drives, relaxed sightseeing, and cultural immersion with comfortable lodging and guide-led planning.",
+    "facilities": [
+      "Air-conditioned transport",
+      "Premium hotel stays",
+      "Daily breakfast",
+      "Professional tour guide",
+      "Bonfire arrangement (weather permitting)"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Islamabad to Naran",
+        "description": "Road travel from Islamabad to Naran with scenic stops along the route."
+      },
+      {
+        "day": 2,
+        "title": "Naran to Skardu",
+        "description": "Long scenic drive via mountain passes and arrival in Skardu."
+      },
+      {
+        "day": 3,
+        "title": "Upper Kachura and Shangrila",
+        "description": "Visit Upper Kachura Lake and Shangrila Resort with leisure time."
+      },
+      {
+        "day": 4,
+        "title": "Shigar Valley",
+        "description": "Explore Shigar Fort, valley villages, and local handicraft spots."
+      },
+      {
+        "day": 5,
+        "title": "Sarfaranga and Cold Desert",
+        "description": "Desert safari area visit and sunset viewpoints around Skardu."
+      },
+      {
+        "day": 6,
+        "title": "Skardu to Naran",
+        "description": "Begin return journey and overnight stay in Naran."
+      },
+      {
+        "day": 7,
+        "title": "Naran to Islamabad",
+        "description": "Final return with refreshment stops and drop-off."
+      }
+    ],
+    "preparations": [
+      "Bring warm layers and windproof jacket",
+      "Carry personal toiletries and sunscreen",
+      "Keep cash for remote areas",
+      "Pack sunglasses and a hat"
+    ],
+    "precautions": [
+      "Respect local culture and dress norms",
+      "Avoid littering at natural sites",
+      "Use guide-approved paths in valleys",
+      "Inform guide about health conditions in advance"
+    ],
+    "terms": [
+      "Advance payment confirms reservation",
+      "Tour may shift due to road and weather conditions",
+      "Entry tickets are not included unless specified",
+      "Cancellation policy applies as per booking agreement"
+    ],
+    "guideId": "guide-sana-khan"
+  },
+  {
+    "id": "tour-naran-kaghan-3-days",
+    "slug": "naran-kaghan-tour-3-days",
+    "title": "Naran Kaghan Tour",
+    "duration": "3 Days",
+    "price": 42000,
+    "location": "Naran & Kaghan",
+    "featuredImage": "/images/tours/naran-kaghan/featured.jpg",
+    "gallery": [
+      "/images/tours/naran-kaghan/1.jpg",
+      "/images/tours/naran-kaghan/2.jpg",
+      "/images/tours/naran-kaghan/3.jpg"
+    ],
+    "shortDescription": "A quick mountain escape featuring river views and alpine landscapes.",
+    "fullDescription": "The Naran Kaghan 3-day package is ideal for short vacations and weekend breaks. It includes comfortable travel from Islamabad, major sightseeing points, and a relaxed itinerary for families or friend groups.",
+    "facilities": [
+      "Round-trip transport",
+      "Hotel stay for 2 nights",
+      "Breakfast",
+      "Driver-guide assistance"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Islamabad to Naran",
+        "description": "Departure early morning, route sightseeing, and check-in at Naran."
+      },
+      {
+        "day": 2,
+        "title": "Saif ul Malook and Kaghan",
+        "description": "Excursion to lake area and nearby valleys with photography stops."
+      },
+      {
+        "day": 3,
+        "title": "Naran to Islamabad",
+        "description": "Return to Islamabad with lunch and rest breaks on the way."
+      }
+    ],
+    "preparations": [
+      "Carry warm clothing for evenings",
+      "Pack rain cover during monsoon season",
+      "Bring personal ID"
+    ],
+    "precautions": [
+      "Avoid standing near high-flow river edges",
+      "Follow local safety advisories",
+      "Keep children supervised at all scenic points"
+    ],
+    "terms": [
+      "Limited seats available on weekends",
+      "Rates may vary in peak season",
+      "Tour is weather dependent"
+    ],
+    "guideId": "guide-zahid-iqbal"
+  },
+  {
+    "id": "tour-one-day-trip",
+    "slug": "one-day-northern-trip",
+    "title": "One Day Trip",
+    "duration": "1 Day",
+    "price": 12000,
+    "location": "Murree & Patriata",
+    "featuredImage": "/images/tours/one-day/featured.jpg",
+    "gallery": [
+      "/images/tours/one-day/1.jpg",
+      "/images/tours/one-day/2.jpg",
+      "/images/tours/one-day/3.jpg"
+    ],
+    "shortDescription": "A single-day scenic break with light activities and easy travel.",
+    "fullDescription": "This one-day package is suitable for travelers looking for a quick and affordable getaway from Islamabad. It includes selected viewpoints, chairlift area access, and enough free time for dining and local shopping.",
+    "facilities": [
+      "Same-day private transport",
+      "Snacks and water",
+      "Tour coordinator support"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "City Departure and Scenic Loop",
+        "description": "Morning departure, hill viewpoints, Patriata visit, lunch break, and evening return."
+      }
+    ],
+    "preparations": [
+      "Carry a light jacket",
+      "Wear comfortable walking shoes",
+      "Bring personal essentials"
+    ],
+    "precautions": [
+      "Stay with group during crowded stops",
+      "Avoid risky edges at viewpoints",
+      "Keep valuables secure"
+    ],
+    "terms": [
+      "Trip timings are fixed",
+      "Any extra activities are self-paid",
+      "Final route may adjust due to traffic"
+    ],
+    "guideId": "guide-zahid-iqbal"
+  }
+]
