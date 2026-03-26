@@ -72,8 +72,8 @@ export default function Home() {
 
   return (
     <div className="space-y-16 sm:space-y-20">
-      <section className="relative left-1/2 right-1/2 -mx-[50vw] w-screen overflow-hidden">
-        <div className="relative min-h-[85svh] md:min-h-[calc(100svh-84px)]">
+      <section className="relative left-1/2 right-1/2 -mx-[50vw] -mt-10 w-screen overflow-hidden sm:-mt-12 lg:-mt-14">
+        <div className="relative min-h-[calc(100svh-72px)] sm:min-h-[calc(100svh-84px)]">
           <Image
             src={heroImage}
             alt="Northern Pakistan landscape"
@@ -85,7 +85,7 @@ export default function Home() {
           />
           <div className="absolute inset-0 bg-gradient-to-r from-slate-950/85 via-slate-900/70 to-slate-900/35" />
 
-          <div className="relative mx-auto flex min-h-[85svh] w-full max-w-6xl items-center px-4 py-12 sm:px-6 md:min-h-[calc(100svh-84px)] lg:px-8">
+          <div className="relative mx-auto flex min-h-[calc(100svh-72px)] w-full max-w-6xl items-center px-4 py-12 sm:min-h-[calc(100svh-84px)] sm:px-6 lg:px-8">
             <div className="max-w-2xl">
               <p className="text-xs font-semibold uppercase tracking-[0.22em] text-sky-200">
                 Premium Northern Tours
