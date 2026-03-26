@@ -1,6 +1,6 @@
-const phoneNumber = "923001234567";
+const phoneNumber = "923091045145";
 const message =
-  "Hi Travel With North, I would like to plan a tour in Northern Pakistan.";
+  "Hi Travel With Neha, I would like to plan a tour in Northern Pakistan.";
 
 export default function WhatsAppButton() {
   return (

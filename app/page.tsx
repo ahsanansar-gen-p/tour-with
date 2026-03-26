@@ -66,7 +66,7 @@ export default function Home() {
       }))
     )
     .slice(0, 6);
-  const whatsappHref = `https://wa.me/923001234567?text=${encodeURIComponent(
+  const whatsappHref = `https://wa.me/923091045145?text=${encodeURIComponent(
     "Hi, I want to book a tour in Northern Pakistan"
   )}`;
 
@@ -177,7 +177,7 @@ export default function Home() {
                     View Details
                   </Link>
                   <a
-                    href={`https://wa.me/923001234567?text=${encodeURIComponent(
+                    href={`https://wa.me/923091045145?text=${encodeURIComponent(
                       `Hi, I want to book ${tour.title}`
                     )}`}
                     target="_blank"

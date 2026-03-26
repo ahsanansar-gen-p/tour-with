@@ -14,7 +14,7 @@ export default function Footer() {
     <footer className="border-t border-slate-200 bg-slate-950 text-slate-300">
       <div className="mx-auto grid w-full max-w-6xl gap-10 px-4 py-12 sm:px-6 lg:grid-cols-3 lg:px-8">
         <div className="space-y-3">
-          <h2 className="text-lg font-semibold text-white">Travel With North</h2>
+          <h2 className="text-lg font-semibold text-white">Travel With Neha</h2>
           <p className="max-w-sm text-sm leading-6 text-slate-400">
             Discover the valleys, lakes, and peaks of Northern Pakistan with
             curated, comfortable, and safe tour experiences.
@@ -59,7 +59,7 @@ export default function Footer() {
       </div>
 
       <div className="border-t border-slate-800 py-4 text-center text-xs text-slate-500">
-        {year} Travel With North. All rights reserved.
+        {year} Travel With Neha. All rights reserved.
       </div>
     </footer>
   );

@@ -64,7 +64,7 @@ export default function Navbar() {
               TW
             </span>
             <span className="text-sm font-semibold uppercase tracking-[0.16em] text-slate-800 transition group-hover:text-sky-700 sm:text-base">
-              Travel With North
+              Travel With Neha
             </span>
           </Link>
 

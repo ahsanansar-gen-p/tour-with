@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Travel With North | Explore Northern Pakistan",
-    template: "%s | Travel With North",
+    default: "Travel With Neha | Explore Northern Pakistan",
+    template: "%s | Travel With Neha",
   },
   description:
     "Modern tourism website base structure for Northern Pakistan tours, destinations, and travel planning.",
@@ -30,14 +30,14 @@ export const metadata: Metadata = {
     "Pakistan tourism",
   ],
   openGraph: {
-    title: "Travel With North | Explore Northern Pakistan",
+    title: "Travel With Neha | Explore Northern Pakistan",
     description:
       "Book curated tours for Hunza, Skardu, Naran Kaghan, and more with trusted local guides.",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Travel With North | Explore Northern Pakistan",
+    title: "Travel With Neha | Explore Northern Pakistan",
     description:
       "Book curated tours for Hunza, Skardu, Naran Kaghan, and more with trusted local guides.",
   },
