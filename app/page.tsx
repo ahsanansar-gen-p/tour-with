@@ -242,10 +242,10 @@ export default function Home() {
                 quality={74}
                 className="object-cover transition duration-500 group-hover:scale-105"
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-slate-950/70 via-transparent to-transparent" />
+              {/* <div className="absolute inset-0 bg-gradient-to-t from-slate-950/70 via-transparent to-transparent" />
               <p className="absolute bottom-3 left-3 rounded-full bg-white/90 px-3 py-1 text-xs font-semibold text-slate-800">
                 {item.title}
-              </p>
+              </p> */}
             </div>
           ))}
         </div>

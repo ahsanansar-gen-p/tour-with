@@ -31,16 +31,14 @@ export default function GalleryPage() {
       />
 
       <section className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-        {galleryItems.map((item, index) => (
+        {galleryItems.map((item) => (
           <Link
             key={item.id}
             href={`/tours/${item.slug}`}
-            className="group overflow-hidden rounded-2xl border border-slate-200 bg-surface shadow-soft transition duration-300 hover:-translate-y-1 hover:shadow-xl"
+            className="group block overflow-hidden rounded-2xl border border-slate-200 bg-surface shadow-soft transition duration-300 hover:-translate-y-1 hover:shadow-xl"
           >
             <div
-              className={`relative overflow-hidden ${
-                index % 4 === 0 ? "aspect-[4/4.6]" : "aspect-[4/3]"
-              } bg-slate-200`}
+              className="relative aspect-[4/3] overflow-hidden bg-slate-200"
             >
               <Image
                 src={item.image}
@@ -50,11 +48,11 @@ export default function GalleryPage() {
                 quality={74}
                 className="object-cover transition duration-500 group-hover:scale-105"
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-slate-950/70 via-transparent to-transparent" />
+              {/* <div className="absolute inset-0 bg-gradient-to-t from-slate-950/70 via-transparent to-transparent" />
               <div className="absolute inset-x-0 bottom-0 p-4">
                 <p className="text-sm font-semibold text-white">{item.title}</p>
                 <p className="text-xs text-slate-200">{item.location}</p>
-              </div>
+              </div> */}
             </div>
           </Link>
         ))}
