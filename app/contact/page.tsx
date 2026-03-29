@@ -32,7 +32,7 @@ export const metadata: Metadata = {
 
 export default function ContactPage() {
   const whatsappHref =
-    "https://wa.me/923091045145?text=Hi%2C%20I%20want%20to%20plan%20a%20tour";
+    "https://wa.me/923266335377?text=Hi%2C%20I%20want%20to%20plan%20a%20tour";
 
   return (
     <div className="space-y-12">
@@ -49,7 +49,7 @@ export default function ContactPage() {
             <p className="text-slate-600">
               Phone:{" "}
               <a
-                href="tel:+923091045145"
+                href="tel:+923266335377"
                 className="font-semibold text-slate-800 transition hover:text-sky-700"
               >
                 +92 300 1234567

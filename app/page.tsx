@@ -66,7 +66,7 @@ export default function Home() {
       }))
     )
     .slice(0, 6);
-  const whatsappHref = `https://wa.me/923091045145?text=${encodeURIComponent(
+  const whatsappHref = `https://wa.me/923266335377?text=${encodeURIComponent(
     "Hi, I want to book a tour in Northern Pakistan"
   )}`;
 
@@ -91,11 +91,12 @@ export default function Home() {
                 Premium Northern Tours
               </p>
               <h1 className="mt-4 text-4xl font-semibold leading-tight text-white sm:text-5xl lg:text-6xl">
-                Explore Northern Pakistan
+                Explore Northern Pakistan With Neha
               </h1>
               <p className="mt-6 max-w-xl text-base leading-7 text-slate-200 sm:text-lg">
-                Book curated travel experiences for Hunza, Skardu, Naran Kaghan,
-                and beyond with comfortable stays and trusted local guides.
+                Book curated travel experiences for Murree, Kashmir, Swat,
+                Naran Kaghan, and beyond with comfortable stays and trusted local
+                guides.
               </p>
 
               <div className="mt-8 flex flex-wrap gap-3">
@@ -177,7 +178,7 @@ export default function Home() {
                     View Details
                   </Link>
                   <a
-                    href={`https://wa.me/923091045145?text=${encodeURIComponent(
+                    href={`https://wa.me/923266335377?text=${encodeURIComponent(
                       `Hi, I want to book ${tour.title}`
                     )}`}
                     target="_blank"

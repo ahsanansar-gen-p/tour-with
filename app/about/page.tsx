@@ -55,7 +55,7 @@ export default function AboutPage() {
             View Tour Packages
           </Link>
           <a
-            href="https://wa.me/923091045145?text=Hi%2C%20I%20want%20to%20plan%20a%20tour"
+            href="https://wa.me/923266335377?text=Hi%2C%20I%20want%20to%20plan%20a%20tour"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center justify-center rounded-full border border-emerald-200 bg-emerald-50 px-5 py-2.5 text-sm font-semibold text-emerald-700 transition hover:bg-emerald-100"

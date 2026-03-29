@@ -3,9 +3,9 @@
     "id": "tour-hunza-5-days",
     "slug": "hunza-tour-5-days",
     "title": "Mushkpuri Top",
-    "duration": "1 Days",
+    "duration": "1 Day",
     "price": 7500,
-    "location": "Mushkpuri & Nathia Gali",
+    "location": "Mushkpuri Top & Nathia Gali",
     "featuredImage": "https://res.cloudinary.com/dt40melyx/image/upload/v1774774963/1000446776_np4yms.jpg",
     "gallery": [
       "https://images.pexels.com/photos/36099067/pexels-photo-36099067.jpeg",
@@ -13,49 +13,49 @@
       "https://images.pexels.com/photos/4737637/pexels-photo-4737637.jpeg",
       "https://images.pexels.com/photos/35880884/pexels-photo-35880884.jpeg"
     ],
-    "shortDescription": "A compact Hunza experience covering Attabad Lake, Altit Fort, and Passu viewpoints.",
-    "fullDescription": "This 5-day Hunza package is designed for travelers who want iconic landscapes, comfortable stays, and balanced sightseeing. The route includes scenic drives on the Karakoram Highway, cultural visits to heritage forts, and photo stops at lakes and mountain passes.",
+    "shortDescription": "Overnight departure from Lahore with a guided Mushkpuri Top hike and Nathia Gali scenery in one day.",
+    "fullDescription": "Ready to leave the city at night and wake up in the mountains? Join this 1-day Mushkpuri Top adventure with overnight travel, a guided hike in the morning, and time for sightseeing and photography around Nathia Gali. The trip departs every Saturday night from Thokar Niaz Baig, Lahore. Breakfast and dinner are included so you can focus on the hike and the views.",
     "facilities": [
-      "Private transport",
-      "Hotel accommodation",
+      "Air-conditioned coaster transport",
+      "Guided hike and tour support",
       "Breakfast and dinner",
-      "Local guide support",
+      "Sightseeing and photography stops",
       "Basic first-aid kit"
     ],
     "itinerary": [
       {
         "day": 1,
-        "title": "Islamabad to Chilas",
-        "description": "Departure from Islamabad, highway travel with rest stops, and overnight stay in Chilas."
+        "title": "Lahore to Mushkpuri Top (Night Departure)",
+        "description": "Depart Lahore at 10:00 PM from Thokar Niaz Baig, travel overnight, hike Mushkpuri Top in the morning, enjoy Nathia Gali viewpoints, and return the same day."
       }
     ],
     "preparations": [
       "Carry original CNIC or passport",
-      "Pack layered clothing for changing temperatures",
-      "Bring personal medicines",
-      "Keep a power bank and charging cable"
+      "Wear comfortable hiking shoes",
+      "Pack warm layers for early morning weather",
+      "Bring personal medicines and a power bank"
     ],
     "precautions": [
-      "Avoid overexertion on high-altitude stops",
-      "Stay hydrated throughout the trip",
-      "Follow guide instructions near rivers and bridges",
-      "Wear comfortable trekking shoes"
+      "Stay with the group on the trail",
+      "Pace yourself during the hike",
+      "Keep hydrated throughout the trip",
+      "Follow guide instructions on viewpoints"
     ],
     "terms": [
+      "Departure every Saturday night",
+      "Limited seats available",
       "50% advance payment required for booking",
-      "Rooms are subject to hotel availability",
-      "Weather-related route changes may occur",
-      "Meals not mentioned in facilities are excluded"
+      "Weather-related route changes may occur"
     ],
     "guideId": "neha-rajpoot"
   },
   {
     "id": "tour-skardu-7-days",
     "slug": "skardu-tour-7-days",
-    "title": "Sawat Kalam",
+    "title": "Swat Kalam",
     "duration": "3 Days",
-    "price": 15000,
-    "location": "Skardu & Shigar",
+    "price": 14999,
+    "location": "Swat, Kalam & Malam Jabba",
     "featuredImage": "https://res.cloudinary.com/dt40melyx/image/upload/v1774776318/1000446855_tcphw1.jpg",
     "gallery": [
       "https://images.pexels.com/photos/14071118/pexels-photo-14071118.jpeg",
@@ -63,54 +63,36 @@
       "https://images.pexels.com/photos/2597456/pexels-photo-2597456.jpeg",
       "https://images.pexels.com/photos/36026321/pexels-photo-36026321.jpeg"
     ],
-    "shortDescription": "A full Skardu expedition featuring lakes, desert landscapes, and heritage forts.",
-    "fullDescription": "This 7-day Skardu tour is crafted for guests who want deep exploration of Baltistan's signature attractions. It combines valley drives, relaxed sightseeing, and cultural immersion with comfortable lodging and guide-led planning.",
+    "shortDescription": "Luxury comfort tour covering Swat, Kalam, Malam Jabba, and the valley highlights.",
+    "fullDescription": "The Switzerland of Pakistan awaits you. Enjoy deluxe AC transport with pick and drop options from Lahore, Islamabad, Gujrat, Gujranwala, and GT Road. The package includes cozy hotel stays on sharing basis, a bonfire night with BBQ dinner and music, 3 breakfasts and 2 dinners, a professional tour guide, and all tolls and taxes included.",
     "facilities": [
-      "Air-conditioned transport",
-      "Premium hotel stays",
-      "Daily breakfast",
+      "Deluxe AC transport",
+      "Pick & drop from Lahore, Islamabad, Gujrat, Gujranwala, and GT Road",
+      "Hotel stay (sharing basis)",
+      "Bonfire night with BBQ dinner and musical vibes",
+      "3 breakfasts and 2 dinners",
       "Professional tour guide",
-      "Bonfire arrangement (weather permitting)"
+      "All tolls and taxes included"
     ],
     "itinerary": [
       {
         "day": 1,
-        "title": "Islamabad to Naran",
-        "description": "Road travel from Islamabad to Naran with scenic stops along the route."
+        "title": "Night Departure & Swat Valley Arrival",
+        "description": "Depart every Monday or Thursday night from Lahore/Islamabad. Scenic travel via GT Road, arrive in Swat, and check in."
       },
       {
         "day": 2,
-        "title": "Naran to Skardu",
-        "description": "Long scenic drive via mountain passes and arrival in Skardu."
+        "title": "Kalam Valley Highlights",
+        "description": "Visit Kalam Valley, Ushu Forest, and Mahudand Lake with stops at Kalam Bazaar and surrounding viewpoints."
       },
       {
         "day": 3,
-        "title": "Upper Kachura and Shangrila",
-        "description": "Visit Upper Kachura Lake and Shangrila Resort with leisure time."
-      },
-      {
-        "day": 4,
-        "title": "Shigar Valley",
-        "description": "Explore Shigar Fort, valley villages, and local handicraft spots."
-      },
-      {
-        "day": 5,
-        "title": "Sarfaranga and Cold Desert",
-        "description": "Desert safari area visit and sunset viewpoints around Skardu."
-      },
-      {
-        "day": 6,
-        "title": "Skardu to Naran",
-        "description": "Begin return journey and overnight stay in Naran."
-      },
-      {
-        "day": 7,
-        "title": "Naran to Islamabad",
-        "description": "Final return with refreshment stops and drop-off."
+        "title": "Malam Jabba & Return",
+        "description": "Explore Malam Jabba, Fizaghat, and Bahrain, then return to the departure city."
       }
     ],
     "preparations": [
-      "Bring warm layers and windproof jacket",
+      "Bring warm layers and rain cover",
       "Carry personal toiletries and sunscreen",
       "Keep cash for remote areas",
       "Pack sunglasses and a hat"
@@ -119,15 +101,15 @@
       "Respect local culture and dress norms",
       "Avoid littering at natural sites",
       "Use guide-approved paths in valleys",
-      "Inform guide about health conditions in advance"
+      "Inform the guide about health conditions in advance"
     ],
     "terms": [
-      "Advance payment confirms reservation",
-      "Tour may shift due to road and weather conditions",
-      "Entry tickets are not included unless specified",
-      "Cancellation policy applies as per booking agreement"
+      "Per head charges: PKR 14,999",
+      "Couple package: PKR 36,000 (Nikkah Nama required)",
+      "Departures every Monday night and Thursday night",
+      "Tour may shift due to road and weather conditions"
     ],
-    "guideId": "guide-sana-khan"
+    "guideId": "neha-rajpoot"
   },
   {
     "id": "tour-naran-kaghan-3-days",

@@ -8,7 +8,7 @@ const formatter = new Intl.NumberFormat("en-PK", {
   maximumFractionDigits: 0,
 });
 
-const whatsappNumber = "923091045145";
+const whatsappNumber = "923266335377";
 
 type TourCardProps = {
   tour: Tour;

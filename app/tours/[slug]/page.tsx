@@ -11,7 +11,7 @@ const priceFormatter = new Intl.NumberFormat("en-PK", {
   maximumFractionDigits: 0,
 });
 
-const whatsappNumber = "923091045145";
+const whatsappNumber = "923266335377";
 
 function getWhatsAppLink(tourTitle: string): string {
   return `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
