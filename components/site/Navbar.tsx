@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
@@ -60,8 +61,15 @@ export default function Navbar() {
       >
         <div className="mx-auto flex w-full max-w-6xl items-center justify-between gap-4 px-4 py-4 sm:px-6 lg:px-8">
           <Link href="/" className="group flex items-center gap-3">
-            <span className="inline-flex h-10 w-10 items-center justify-center rounded-xl bg-sky-600 text-sm font-bold text-white shadow-soft">
-              TW
+            <span className="relative inline-flex h-10 w-10 overflow-hidden rounded-xl shadow-soft">
+              <Image
+                src="https://res.cloudinary.com/dt40melyx/image/upload/v1774777138/1000446975_i0kfem.jpg"
+                alt="Travel With Neha logo"
+                fill
+                sizes="40px"
+                className="object-cover"
+                priority
+              />
             </span>
             <span className="text-sm font-semibold uppercase tracking-[0.16em] text-slate-800 transition group-hover:text-sky-700 sm:text-base">
               Travel With Neha

@@ -1,15 +1,23 @@
 [
   {
-    "id": "guide-ali-raza",
-    "name": "Ali Raza",
-    "image": "/images/guides/ali-raza.jpg",
-    "experience": "8 Years",
-    "description": "Specializes in Hunza, Nagar, and nearby mountain routes with a focus on safe and comfortable family travel.",
+    "id": "neha-rajpoot",
+    "name": "Neha Rajpoot",
+    "image": "https://res.cloudinary.com/dt40melyx/image/upload/v1774775420/1000446817_e8oco0.jpg",
+    "experience": "3 Years",
+    "description": "Neha is a Travel Coordinator with 3 years of experience in planning tours to the Northern Areas of Pakistan. She specializes in creating smooth, safe, and enjoyable travel experiences for families, groups, and couples. Her focus is on good service, clear communication, and perfect trip management.",
     "gallery": [
-      "/images/guides/ali-raza-1.jpg",
-      "/images/guides/ali-raza-2.jpg",
-      "/images/guides/ali-raza-3.jpg"
-    ]
+     "https://res.cloudinary.com/dt40melyx/image/upload/v1774774889/1000446779_cy2nqy.jpg",
+      "https://res.cloudinary.com/dt40melyx/image/upload/v1774774964/1000446782_pehazx.jpg",
+      "https://res.cloudinary.com/dt40melyx/image/upload/v1774775420/1000446840_fwrovh.jpg",
+      "https://res.cloudinary.com/dt40melyx/image/upload/v1774775420/1000446839_u1faxc.jpg",
+      "https://res.cloudinary.com/dt40melyx/image/upload/v1774775421/1000446793_wvxqkc.jpg",
+      "https://res.cloudinary.com/dt40melyx/image/upload/v1774774964/1000446787_bzehig.jpg"
+    ],
+    "socials": {
+      "instagram": "https://www.instagram.com/neha.rajpoot",
+      "facebook": "https://www.facebook.com/neha.rajpoot",
+      "tiktok": "https://www.tiktok.com/@neha.rajpoot"
+    }
   },
   {
     "id": "guide-sana-khan",
@@ -21,7 +29,12 @@
       "/images/guides/sana-khan-1.jpg",
       "/images/guides/sana-khan-2.jpg",
       "/images/guides/sana-khan-3.jpg"
-    ]
+    ],
+    "socials": {
+      "instagram": "https://www.instagram.com/sana.khan",
+      "facebook": "https://www.facebook.com/sana.khan",
+      "tiktok": "https://www.tiktok.com/@sana.khan"
+    }
   },
   {
     "id": "guide-zahid-iqbal",
@@ -32,6 +45,11 @@
     "gallery": [
       "/images/guides/zahid-iqbal-1.jpg",
       "/images/guides/zahid-iqbal-2.jpg"
-    ]
+    ],
+    "socials": {
+      "instagram": "https://www.instagram.com/zahid.iqbal",
+      "facebook": "https://www.facebook.com/zahid.iqbal",
+      "tiktok": "https://www.tiktok.com/@zahid.iqbal"
+    }
   }
 ]

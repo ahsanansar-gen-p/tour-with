@@ -72,7 +72,7 @@ export default function Home() {
 
   return (
     <div className="space-y-16 sm:space-y-20">
-      <section className="relative left-1/2 right-1/2 -mx-[50vw] -mt-10 w-screen overflow-hidden sm:-mt-12 lg:-mt-14">
+      <section className="relative left-1/2 -mt-10 w-[100dvw] -translate-x-1/2 overflow-hidden sm:-mt-12 lg:-mt-14">
         <div className="relative min-h-[calc(100svh-72px)] sm:min-h-[calc(100svh-84px)]">
           <Image
             src={heroImage}

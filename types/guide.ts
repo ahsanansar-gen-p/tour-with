@@ -5,4 +5,9 @@ export type Guide = {
   experience: string;
   description: string;
   gallery: string[];
+  socials?: {
+    instagram?: string;
+    facebook?: string;
+    tiktok?: string;
+  };
 };

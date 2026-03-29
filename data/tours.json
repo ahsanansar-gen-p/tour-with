@@ -2,11 +2,11 @@
   {
     "id": "tour-hunza-5-days",
     "slug": "hunza-tour-5-days",
-    "title": "Hunza Tour",
-    "duration": "5 Days",
-    "price": 75000,
-    "location": "Hunza Valley",
-    "featuredImage": "https://images.pexels.com/photos/6812471/pexels-photo-6812471.jpeg",
+    "title": "Mushkpuri Top",
+    "duration": "1 Days",
+    "price": 7500,
+    "location": "Mushkpuri & Nathia Gali",
+    "featuredImage": "https://res.cloudinary.com/dt40melyx/image/upload/v1774774963/1000446776_np4yms.jpg",
     "gallery": [
       "https://images.pexels.com/photos/36099067/pexels-photo-36099067.jpeg",
       "https://images.pexels.com/photos/7202377/pexels-photo-7202377.jpeg",
@@ -27,26 +27,6 @@
         "day": 1,
         "title": "Islamabad to Chilas",
         "description": "Departure from Islamabad, highway travel with rest stops, and overnight stay in Chilas."
-      },
-      {
-        "day": 2,
-        "title": "Chilas to Hunza",
-        "description": "Drive to Hunza with viewpoints at Rakaposhi and Karimabad market exploration."
-      },
-      {
-        "day": 3,
-        "title": "Hunza Sightseeing",
-        "description": "Visit Altit and Baltit forts, Eagle's Nest sunset, and local cuisine experience."
-      },
-      {
-        "day": 4,
-        "title": "Passu and Attabad",
-        "description": "Day excursion to Passu Cones, Hussaini Bridge area, and Attabad Lake boating."
-      },
-      {
-        "day": 5,
-        "title": "Return Journey",
-        "description": "Travel back with planned breaks and final drop-off at Islamabad."
       }
     ],
     "preparations": [
@@ -67,16 +47,16 @@
       "Weather-related route changes may occur",
       "Meals not mentioned in facilities are excluded"
     ],
-    "guideId": "guide-ali-raza"
+    "guideId": "neha-rajpoot"
   },
   {
     "id": "tour-skardu-7-days",
     "slug": "skardu-tour-7-days",
-    "title": "Skardu Tour",
-    "duration": "7 Days",
-    "price": 105000,
+    "title": "Sawat Kalam",
+    "duration": "3 Days",
+    "price": 15000,
     "location": "Skardu & Shigar",
-    "featuredImage": "https://images.pexels.com/photos/36040707/pexels-photo-36040707.jpeg",
+    "featuredImage": "https://res.cloudinary.com/dt40melyx/image/upload/v1774776318/1000446855_tcphw1.jpg",
     "gallery": [
       "https://images.pexels.com/photos/14071118/pexels-photo-14071118.jpeg",
       "https://images.pexels.com/photos/6201373/pexels-photo-6201373.jpeg",
@@ -152,11 +132,11 @@
   {
     "id": "tour-naran-kaghan-3-days",
     "slug": "naran-kaghan-tour-3-days",
-    "title": "Naran Kaghan Tour",
-    "duration": "3 Days",
-    "price": 42000,
-    "location": "Naran & Kaghan",
-    "featuredImage": "https://images.pexels.com/photos/36419543/pexels-photo-36419543.jpeg",
+    "title": "Hunza Valley",
+    "duration": "8 Days",
+    "price": 28000,
+    "location": "Hunza Valley",
+    "featuredImage": "https://res.cloudinary.com/dt40melyx/image/upload/v1774776626/1000446919_yq80so.jpg",
     "gallery": [
       "https://images.pexels.com/photos/35931726/pexels-photo-35931726.jpeg",
       "https://images.pexels.com/photos/6812471/pexels-photo-6812471.jpeg",

@@ -49,6 +49,15 @@ export default async function GuideProfilePage({
     notFound();
   }
 
+  const socialLinks = [
+    { id: "instagram", label: "Instagram", href: guide.socials?.instagram },
+    { id: "facebook", label: "Facebook", href: guide.socials?.facebook },
+    { id: "tiktok", label: "TikTok", href: guide.socials?.tiktok },
+  ].filter(
+    (link): link is { id: string; label: string; href: string } =>
+      Boolean(link.href)
+  );
+
   return (
     <div className="space-y-10">
       <section className="rounded-3xl border border-slate-200 bg-surface p-6 shadow-soft sm:p-8">
@@ -92,6 +101,21 @@ export default async function GuideProfilePage({
                 Share Profile Link
               </Link>
             </div>
+            {socialLinks.length > 0 ? (
+              <div className="flex flex-wrap gap-3">
+                {socialLinks.map((link) => (
+                  <a
+                    key={link.id}
+                    href={link.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center justify-center rounded-full border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 transition hover:bg-slate-50"
+                  >
+                    {link.label}
+                  </a>
+                ))}
+              </div>
+            ) : null}
           </div>
         </div>
       </section>

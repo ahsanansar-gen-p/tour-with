@@ -12,6 +12,13 @@ const nextConfig: NextConfig = {
         pathname: "/photos/**",
         search: "",
       },
+      {
+        protocol: "https",
+        hostname: "res.cloudinary.com",
+        port: "",
+        pathname: "/dt40melyx/**",
+        search: "",
+      },
     ],
   },
 };
